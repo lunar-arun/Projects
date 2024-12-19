@@ -1,6 +1,6 @@
 # Blinkit Grocery Power BI Dashboard
 
-Preview of the dashborad!
+Preview of the dashboard!
 
 ![image](https://github.com/user-attachments/assets/82aa650c-0b08-437e-88be-ad85b8b44e89)
 
